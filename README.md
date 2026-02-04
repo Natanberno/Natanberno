@@ -42,7 +42,7 @@ Atualmente cursando **Engenharia de Software**, sempre buscando evoluir tecnicam
 C#, .NET, WinForms, WPF • SQL Server • Web APIs
 
 🔹 **Desenvolvedor Júnior — Jaspi Sistemas**  
-Full stack com GeneXus
+Full stack com GeneXus, TypeScript e NestJS
 
 🔹 **Projeto Interno — Hub de Integração com Marketplaces**  
 Backend com TypeScript e NestJS (Mercado Livre e Shopee)
