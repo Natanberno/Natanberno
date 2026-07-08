@@ -35,8 +35,8 @@ desktop e web. Vivência com **correção de bugs, criação de telas, consumo d
 Atualmente cursando **Engenharia de Software**, sempre buscando evoluir tecnicamente e aprender boas práticas.
 
 ---
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
-
+![Snake animation](https://github.com/Natanberno/Natanberno/blob/output/github-contribution-grid-snake.svg)
+---
 ## 💼 Experiência
 
 🔹 **Desenvolvedor Júnior — Softise**  
