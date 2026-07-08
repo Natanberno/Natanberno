@@ -35,7 +35,9 @@ desktop e web. Vivência com **correção de bugs, criação de telas, consumo d
 Atualmente cursando **Engenharia de Software**, sempre buscando evoluir tecnicamente e aprender boas práticas.
 
 ---
-![Snake animation](https://github.com/Natanberno/Natanberno/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Natanberno/Natanberno/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 ---
 ## 💼 Experiência
 
