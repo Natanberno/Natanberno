@@ -35,6 +35,7 @@ desktop e web. Vivência com **correção de bugs, criação de telas, consumo d
 Atualmente cursando **Engenharia de Software**, sempre buscando evoluir tecnicamente e aprender boas práticas.
 
 ---
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ## 💼 Experiência
 
@@ -42,7 +43,7 @@ Atualmente cursando **Engenharia de Software**, sempre buscando evoluir tecnicam
 C#, .NET, WinForms, WPF • SQL Server • Web APIs
 
 🔹 **Desenvolvedor Júnior — Jaspi Sistemas**  
-Full stack com GeneXus, TypeScript e NestJS
+Full stack com TypeScript, React e NestJS, APIs, webhooks
 
 🔹 **Projeto Interno — Hub de Integração com Marketplaces**  
 Backend com TypeScript e NestJS (Mercado Livre e Shopee)
